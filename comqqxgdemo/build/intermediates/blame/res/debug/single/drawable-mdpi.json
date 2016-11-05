@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\right.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\right.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\update_time.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\update_time.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\about.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\nodata.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\nodata.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_search.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

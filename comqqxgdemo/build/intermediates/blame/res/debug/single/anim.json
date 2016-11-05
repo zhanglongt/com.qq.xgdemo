@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\anim\\out.xml",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\anim\\out.xml"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\anim\\in.xml",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\anim\\in.xml"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\anim\\out_animation.xml",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\anim\\out_animation.xml"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\anim\\in_animation.xml",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\anim\\in_animation.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\update_time.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\update_time.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scrollbarpanel_background.9.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\scrollbarpanel_background.9.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nodata.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\nodata.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "E:\\androidSpace\\com.qq.xgdemo\\comqqxgdemo\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    }
+]
